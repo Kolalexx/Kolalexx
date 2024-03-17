@@ -8,6 +8,7 @@ I have completed my studies at Hexlet, a PHP developer. I have successfully impl
 I know how to work in a team, masterfully manage processes and personnel. I strive for constant development. I am always ready to learn new things and put my knowledge into practice. My goal is to combine theory with practice and become a professional developer. I am ready to take an active part in any projects and create the best solutions.
 
 *   ✉️  You can contact me at [kolalexx@yandex.ru](mailto:kolalexx@yandex.ru)
+*   [my Telegram](https://tlgg.ru/kolalexx)
 
 ### Skills 
 <p align="left">
