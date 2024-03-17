@@ -9,6 +9,7 @@ I know how to work in a team, masterfully manage processes and personnel. I stri
 
 *   ✉️  You can contact me at [kolalexx@yandex.ru](mailto:kolalexx@yandex.ru)
 *   [my Telegram](https://tlgg.ru/kolalexx)
+*   [my resume](https://cv.hexlet.io/ru/resumes/3654)
 
 ### Skills 
 <p align="left">
