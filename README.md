@@ -4,7 +4,8 @@ Hi 👋 My name is Aleksey Kolesnikov
 PHP-developer
 -------------
 
-Закончил обучение на онлайн-платформе Hexlet по направлению PHP-разработчик и успешно завершил четыре проекта, в которых применял знания в области следующих инструментов и фреймворков: PHP, Composer, HTML, CSS, Git, PostgreSQL, SQLite, Laravel, Slim, HTTP, Docker. Обладаю навыками работы в команде, управления процессами и персоналом. Стремлюсь к постоянному саморазвитию, готов учиться новому и применять знания на практике. Моя цель - объединить теорию с практикой и стать профессиональным разработчиком. Готов принимать активное участие в командных проектах и создавать интересные решения.
+He graduated from Hexlet, the direction of PHP developer. I have successfully implemented four projects using the following tools and frameworks: PHP, Composer, HTML, CSS, Git, PostgreSQL, SQLite, Laravel, Slim, HTTP, Docker.
+I know how to work in a team, masterfully manage processes and personnel. I strive for constant development. I am always ready to learn new things and put my knowledge into practice. My goal is to combine theory with practice and become a professional developer. I am ready to take an active part in any projects and create the best solutions.
 
 *   ✉️  You can contact me at [kolalexx@yandex.ru](mailto:kolalexx@yandex.ru)
 
